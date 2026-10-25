@@ -1,23 +1,43 @@
-# ArewaMoney AI - Voice for Hausa Traders
-Meta AI Developer Hackathon 2026 Submission
 
-### Problem
-40M+ traders in Northern Nigeria cannot use English accounting apps. They lose profit daily.
+# ArewaMoney AI - From Yola Market to Dubai
+### Dubai Create AI Agent Championship | Best Technical AI Agent
 
-### Solution: ArewaMoney AI
-Trader speaks Hausa: "Na sayi takalmi 20 akan 1500 na sayar 2500"
-1. Muse Spark STT -> Hausa voice to text
-2. Llama 3.3 -> Extract transaction
-3. Auto profit = 20,000 Naira
-4. SAM 3.1 + Muse Image -> MAMMAN MILLION poster
-5. WhatsApp Bot -> Daily report in Hausa
+> Voice-first Hausa Fintech AI for 120M underbanked traders | MAYJODA GLOBAL
 
-### Tech Stack
-Meta Model API: Muse Spark, Llama 3.3 70B, SAM 3.1, Muse Image + WhatsApp Cloud API
+![Arewa to Dubai](https://img.shields.io/badge/Arewa-to-Dubai-gold)
+![Llama 3.3](https://img.shields.io/badge/Llama-3.3-blue)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-AI-green)
 
-### Founder
-Abdulmalik H Sani | MAYJODA GLOBAL CONCEPTS LTD | MAMMAN MILLION Brand
-Yola, Adamawa | Jimeta Market
+## 🎯 Problem
+80% of Northern Nigeria traders are women, low-literacy, speak only Hausa. They can't use apps. They lose money because no bookkeeping.
 
-### GitHub
-github.com/MammanMillion/ArewaMoney-AI
+## 💡 Solution
+ArewaMoney AI — Ask in Hausa VOICE on WhatsApp, get answers instantly:
+
+- "Nawa ribata?" → AI calculates profit
+- "Wane bashi?" → AI lists debtors  
+- Voice reply in Hausa + English
+
+## 🚀 Tech Stack (Dubai Judges Love This)
+- **Meta Llama 3.3 70B** - Hausa NLP
+- **Llama 4 Vision** - Read invoices/handwritten receipts
+- **Muse Spark** - WhatsApp integration
+- **Whisper AI** - Hausa speech-to-text
+- **WhatsApp Cloud API** - No app needed
+
+## 📱 How It Works
+1. Trader sends voice note in Hausa
+2. Whisper → Text
+3. Llama 3.3 + RAG (market prices) → Answer
+4. TTS in Hausa → Voice reply on WhatsApp
+
+## 🏆 Why Best Technical AI Agent?
+- First Hausa Voice Fintech Agent
+- Works on 2G, no smartphone needed
+- RAG: Kano/Kaduna/Dubai market prices
+- Agents: Bookkeeping Agent, Debt Agent, Price Agent
+
+## 🔧 Run Locally
+```bash
+pip install -r requirements.txt
+python app.py
